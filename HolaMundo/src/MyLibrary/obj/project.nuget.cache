@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9roYtS60wDJj8qX4mG+8Qc+v9Im3RVoYpd5k+x6HftKyBJAupJYZtBO2zoMx2M4EB51FiZtHNh1PZMc6HWEPHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caro_\\OneDrive\\Documentos\\Repositorios\\fp-course-public\\HolaMundo\\src\\MyLibrary\\MyLibrary.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caro_\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
